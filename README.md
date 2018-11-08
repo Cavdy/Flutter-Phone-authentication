@@ -1,6 +1,7 @@
 # phoneauth
 
-A new Flutter project.
+A Flutter project on Phone Verification and Authentication.
+Read About it on our [blog](http://www.blog.cavdy.com/flutter/flutter-tutorial-phone-verification-and-authentication/)
 
 ## Getting Started
 
